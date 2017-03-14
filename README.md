@@ -1,24 +1,10 @@
-# README
+RailsMN Tutorial
+========================================
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
 
-Things you may want to cover:
+A basic Rails tutorial application that displays a list of drinks and their associated temperatures. Used for getting started with the basics of Rails.
 
-* Ruby version
+## Resources:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Getting Started: http://docs.railsbridge.org/intro-to-rails/
